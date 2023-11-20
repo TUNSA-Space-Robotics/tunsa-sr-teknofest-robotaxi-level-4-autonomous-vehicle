@@ -1,0 +1,141 @@
+Localization Sensors
+1. Localization Requirements for TUNMSR
+2. Inertial Measurement Unit (IMU)
+3. GNSS Module
+Visual Perception Sensors
+1. Perception Requirements for TUNMSR
+2. Computer Vision (CV) Sensor: Options Assessment
+i. LiDAR
+ii. 3D Flash LiDAR
+iii. 4D/3D Imaging Radars
+iv. Pseudo-LiDARs: Stereo Cameras
+v. Breakdown Comparison
+3. Preliminary CV Sensor Choice: Stereo Camera
+4. Time-of-flight Sensors
+D. Breakdown of Sensors
+F. Sensor Autonomy Coverage
+
+High-level Control Unit
+1. VCU Selection Criteria for TUNMSR
+2. Options Assessment
+8
+3. Preliminary VCU Choice: NVIDIA DRIVE AGX Pegasus Developer Kit
+
+Low-level Control Unit
+1. Longitudinal Actuation
+2. Lateral Actuation
+
+
+///////////////////////////// Motor & Powertrain Electronics ///////////////
+
+C. Powertrain Sensors
+1. Powertrain Requirements for TUNMSR
+2. Electronic Battery Sensor
+3. Temperature Sensor
+4. Transmission Sensor
+5. Wheel-speed Sensor
+Manual Vehicle Control
+1. Steer-by-wire Design
+2. Pedal-by-wire Design
+3. Brake-by-wire Design
+
+///////////////////////////// Vehicle Network & Infotainment & CAN Buses ///////////////
+
+F. Vehicle Wiring Harness
+G. Sensor Wiring
+E. Sensor Mounting
+C. Wireless Control Unit
+1. Wireless Controller
+2. Wireless Communication System
+i. Wireless Communication Protocols
+ii. Wireless Control Software
+E. Automotive User Interfaces
+1. Manual Driving Controls
+2. Autonomous Driving Controls
+3. Infotainment
+
+///////////////////////////// Modeling & Control ////////////////////////////
+
+Vehicle Kinematics & Dynamics Modeling
+B. Vehicle 2D Control
+1. Longitudinal PID Control
+2. Lateral Model-Predictive Control (MPC)
+
+///////////////////////////// Visual Perception ////////////////////////////
+
+C. Visual Perception
+1. Computer Vision Toolbox
+i. CNNs
+ii. TensorFlow
+iii. Object Detection with YOLOR
+Stereo Camera Data Processing
+3. Semantic Lane Estimation & Tracking
+4. Visual Servoing & Trajectory Drawing
+i. Visual Servoing Approach
+ii. Coordinate Transformations
+iii. Drawing Planned Trajectory
+5. Object Detection
+i. Traffic Sign Detection
+ii. Traffic Light Detection
+iii. Obstacle Avoidance
+
+///////////////////////////// Battery & Powertrain ////////////////////////////
+
+Vehicle Drivetrain
+Vehicle Batteries
+
+Battery Management System (BMS)
+1. Voltage Monitoring
+2. Current Monitoring
+3. Temperature Monitoring
+4. State of Charge (SOC)
+5. State of Health (SOH)
+6. Balancing System
+
+///////////////////////////// Motion Planning ////////////////////////////
+
+Motion Planning
+1. Global Path Planner
+2. Behavioral Planner
+3. Local Re-Planner
+4. Velocity Planner
+
+///////////////////////////// ADAS ////////////////////////////
+
+D. Safety Features
+1. Anti-Lock Braking (ABS) System
+2. Electronic Stability Control (ESC)
+3. Intelligent Braking System (IBS)
+
+///////////////////////////// Safety ////////////////////////////
+
+Security Hardware
+1. Signal Lights
+2. Stop Lamps
+
+Electrical Safety
+
+1. Ingress Protection (IP)
+2. Low Current Emergency Disconnect Switch
+3. High Current Emergency Disconnect Switch
+4. Emergency Stop Button (Circuit Breaker)
+5. Overcurrent Breakers
+
+///////////////////////////// Simulation ////////////////////////////
+A. Simulation Environment
+B. Map Creation
+C. Implemented Algorithms
+D. Vehicle Mission
+E. Simulation Results
+
+///////////////////////////// State Estimation & Sensor Fusion ////////////////////////////
+State Estimation and Real-time Localization
+1. Options Assessment
+i. Extended Kalman Filter (EKF)
+ii. Error-State Extended Kalman Filter (ES-EKF)
+iii. Unscented Kalman Filter (UKF)
+2. Implementation of the UKF
+Sensor Fusion
+1. Sensor Synchronization
+2. Sensor Raw Data Processing
+3. Sensor Fusion Algorithm
