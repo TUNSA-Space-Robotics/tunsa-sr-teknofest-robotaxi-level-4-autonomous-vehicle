@@ -57,7 +57,7 @@ For inquiries or collaboration opportunities, please contact:
 
 - Elyes Khechine: elyeskhechine@gmail.com
 - Nesrine Abidi: nesrinabidi766@gmail.com
-- Oussama Jouini: Oussamajouini101@gmail.com
+- Oussama Jouini: oussamajouini101@gmail.com
 - Ameni Jellali: jellaliameni@gmail.com
 - Hadil Sridi: hadilsridi79@gmail.com
 - Hamza Jmii: hamzajmii89@gmail.com
