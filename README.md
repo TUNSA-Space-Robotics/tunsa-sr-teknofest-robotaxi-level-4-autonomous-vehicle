@@ -14,7 +14,7 @@ This project, undertaken for the TEKNOFEST Full-Scale Autonomous Vehicle 2022 Co
 
 Spanning from March 7, 2022, to May 20, 2022, the project involved a meticulously planned and executed effort led by Elyes Khechine, comprising a multidisciplinary team of 13 members. The primary objective was to conceptualize and design a full-scale autonomous robotaxi adhering to stringent traffic regulations. The project culminated with a detailed 53-page preliminary design report that was written within a tight 3-week timeframe, outlining the vehicle's architecture, systems, and proposed methodologies. We were able to achieve a 70% score in the preliminary round of the TEKNOFEST competition.
 
-## Key Features
+## Technical Details
 
 - **Advanced GNSS Module Selection**: Identification and adoption of the UMSZ6 Series GNSS module for high-accuracy positioning, offering precise localization within 50cm without correction data and ensuring robust performance in diverse satellite environments.
 - **Optimized IMU Selection**: Rigorous assessment led to the selection of the Ellipse-E inertial navigation sensor for its superior gyroscopes, effective vibration handling, and reliable RTK position maintenance during GNSS signal loss scenarios.
