@@ -8,11 +8,13 @@
 
 ## Introduction
 
-This project, undertaken for the TEKNOFEST Full-Scale Autonomous Vehicle 2022 Competition by TUNSA Space Robotics, aimed to develop a cutting-edge autonomous vehicle capable of navigating inner-city traffic with level 4 autonomy. Leveraging state-of-the-art technologies and methodologies, the project sought to achieve robustness, reliability, and efficiency in autonomous transportation systems.
+This project aimed to develop a cutting-edge autonomous vehicle capable of navigating inner-city traffic with level 4 autonomy. Leveraging state-of-the-art technologies and methodologies, the project sought to achieve robustness, reliability, and efficiency in a new type of autonomous transportation system.
 
 ## Project Scope
 
-Spanning from March 7, 2022, to May 20, 2022, the project involved a meticulously planned and executed effort led by Elyes Khechine, comprising a multidisciplinary team of 13 members. The primary objective was to conceptualize and design a full-scale autonomous robotaxi adhering to stringent traffic regulations. The project culminated with a detailed 53-page preliminary design report that was written within a tight 3-week timeframe, outlining the vehicle's architecture, systems, and proposed methodologies. We were able to achieve a 70% score in the preliminary round of the TEKNOFEST competition.
+Spanning from March 7, 2022, to May 20, 2022, this project was a meticulously planned and executed effort conducted by a team of 12 multi-disciplinary individuals from TUNSA Space Robotics led by Elyes Khechine. It was submitted for judgment in the TEKNOFEST Full-Scale Autonomous Vehicle 2022 Competition in which the primary objective was to conceptualize and design a full-scale autonomous robotaxi adhering to stringent traffic regulations.
+
+The project culminated with a detailed 53-page preliminary design report that was written within a tight 3-week timeframe, outlining the vehicle's architecture, systems, and proposed methodologies. We were able to achieve a high 70% score in the preliminary round of the competition.
 
 ## Technical Details
 
@@ -26,26 +28,11 @@ Spanning from March 7, 2022, to May 20, 2022, the project involved a meticulousl
   
 ## Project Report
 
-For a comprehensive overview of the project, including methodologies, findings, and outcomes, please refer to the [Project Report](https://drive.google.com/file/d/1Q47hzvBo0VdV7HBrr_yuy_-2RK7m12BO/view?usp=sharing).
-
-## Getting Started
-
-### Installation
-
-1. Ensure compatibility and proper setup of hardware components.
-2. Configure system settings and deploy required software dependencies.
-3. Initialize and calibrate sensors and control units as per project specifications.
-
-### Usag
-
-1. Power on the vehicle and initialize the autonomous control system.
-2. Monitor real-time feedback from sensors and actuators using designated interfaces.
-3. Execute autonomous navigation tasks and evaluate system performance under various scenarios.
+For a comprehensive overview of the project, including methodologies, findings, and outcomes, please refer to the [project report](https://drive.google.com/file/d/1Q47hzvBo0VdV7HBrr_yuy_-2RK7m12BO/view?usp=sharing).
 
 ## Contributing
 
 Contributions aimed at enhancing project functionalities and addressing emerging challenges are encouraged.
-
 
 ## License
 
@@ -64,3 +51,6 @@ For inquiries or collaboration opportunities, please contact:
 - Fatma Zahra Trabelsi: zahrafatmafzt@gmail.com
 - Afef Salhi: salhiafefge@gmail.com
 - Amin Guesmi: aminguesmi17@gmail.com
+- Fadhel Essid: essidfadhel@gmail.com
+- Mohamed Yessine Bouaziz: medyassine_bouaziz@yahoo.fr
+- Wael Aissaoui: aissaouiweel@gmail.com
